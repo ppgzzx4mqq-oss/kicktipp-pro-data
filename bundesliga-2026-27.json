@@ -1,14 +1,7 @@
 {
   "season": "2026/27",
-  "generatedAt": "2026-09-18T11:09:08Z",
+  "generatedAt": "2026-09-19T09:42:19Z",
   "fixtures": [
-    {
-      "id": "2627|4|83183",
-      "matchday": 4,
-      "kickoff": "2026-09-18T18:30:00Z",
-      "homeTeam": "Bayern Munich",
-      "awayTeam": "Union Berlin"
-    },
     {
       "id": "2627|4|83186",
       "matchday": 4,
@@ -2199,6 +2192,15 @@
       "awayTeam": "Bayern Munich",
       "homeGoals": 1,
       "awayGoals": 2
+    },
+    {
+      "id": "2627|4|83183",
+      "matchday": 4,
+      "kickoff": "2026-09-18T18:30:00Z",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Union Berlin",
+      "homeGoals": 7,
+      "awayGoals": 0
     }
   ],
   "market": {
