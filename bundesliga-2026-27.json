@@ -1,42 +1,7 @@
 {
   "season": "2026/27",
-  "generatedAt": "2026-09-19T10:53:32Z",
+  "generatedAt": "2026-09-20T10:00:16Z",
   "fixtures": [
-    {
-      "id": "2627|4|83186",
-      "matchday": 4,
-      "kickoff": "2026-09-19T13:30:00Z",
-      "homeTeam": "Ein Frankfurt",
-      "awayTeam": "Freiburg"
-    },
-    {
-      "id": "2627|4|83187",
-      "matchday": 4,
-      "kickoff": "2026-09-19T13:30:00Z",
-      "homeTeam": "M'gladbach",
-      "awayTeam": "Mainz 05"
-    },
-    {
-      "id": "2627|4|83188",
-      "matchday": 4,
-      "kickoff": "2026-09-19T13:30:00Z",
-      "homeTeam": "Hamburg",
-      "awayTeam": "FC Koln"
-    },
-    {
-      "id": "2627|4|83189",
-      "matchday": 4,
-      "kickoff": "2026-09-19T13:30:00Z",
-      "homeTeam": "Werder Bremen",
-      "awayTeam": "Augsburg"
-    },
-    {
-      "id": "2627|4|83184",
-      "matchday": 4,
-      "kickoff": "2026-09-19T16:30:00Z",
-      "homeTeam": "Stuttgart",
-      "awayTeam": "Dortmund"
-    },
     {
       "id": "2627|4|83185",
       "matchday": 4,
@@ -2201,6 +2166,51 @@
       "awayTeam": "Union Berlin",
       "homeGoals": 7,
       "awayGoals": 0
+    },
+    {
+      "id": "2627|4|83186",
+      "matchday": 4,
+      "kickoff": "2026-09-19T13:30:00Z",
+      "homeTeam": "Ein Frankfurt",
+      "awayTeam": "Freiburg",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "id": "2627|4|83187",
+      "matchday": 4,
+      "kickoff": "2026-09-19T13:30:00Z",
+      "homeTeam": "M'gladbach",
+      "awayTeam": "Mainz 05",
+      "homeGoals": 3,
+      "awayGoals": 4
+    },
+    {
+      "id": "2627|4|83188",
+      "matchday": 4,
+      "kickoff": "2026-09-19T13:30:00Z",
+      "homeTeam": "Hamburg",
+      "awayTeam": "FC Koln",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "2627|4|83189",
+      "matchday": 4,
+      "kickoff": "2026-09-19T13:30:00Z",
+      "homeTeam": "Werder Bremen",
+      "awayTeam": "Augsburg",
+      "homeGoals": 3,
+      "awayGoals": 2
+    },
+    {
+      "id": "2627|4|83184",
+      "matchday": 4,
+      "kickoff": "2026-09-19T16:30:00Z",
+      "homeTeam": "Stuttgart",
+      "awayTeam": "Dortmund",
+      "homeGoals": 0,
+      "awayGoals": 1
     }
   ],
   "market": {
