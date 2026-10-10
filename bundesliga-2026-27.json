@@ -1,14 +1,7 @@
 {
   "season": "2026/27",
-  "generatedAt": "2026-10-09T13:10:53Z",
+  "generatedAt": "2026-10-10T11:20:01Z",
   "fixtures": [
-    {
-      "id": "2627|5|83192",
-      "matchday": 5,
-      "kickoff": "2026-10-09T18:30:00Z",
-      "homeTeam": "Dortmund",
-      "awayTeam": "Werder Bremen"
-    },
     {
       "id": "2627|5|83194",
       "matchday": 5,
@@ -2217,6 +2210,15 @@
       "awayTeam": "Hoffenheim",
       "homeGoals": 3,
       "awayGoals": 1
+    },
+    {
+      "id": "2627|5|83192",
+      "matchday": 5,
+      "kickoff": "2026-10-09T18:30:00Z",
+      "homeTeam": "Dortmund",
+      "awayTeam": "Werder Bremen",
+      "homeGoals": 2,
+      "awayGoals": 2
     }
   ],
   "market": {
