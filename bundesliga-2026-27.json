@@ -1,14 +1,7 @@
 {
   "season": "2026/27",
-  "generatedAt": "2026-10-16T11:16:47Z",
+  "generatedAt": "2026-10-17T09:37:26Z",
   "fixtures": [
-    {
-      "id": "2627|6|83203",
-      "matchday": 6,
-      "kickoff": "2026-10-16T18:30:00Z",
-      "homeTeam": "Ein Frankfurt",
-      "awayTeam": "FC Koln"
-    },
     {
       "id": "2627|6|83204",
       "matchday": 6,
@@ -2235,6 +2228,15 @@
       "awayTeam": "Schalke 04",
       "homeGoals": 2,
       "awayGoals": 1
+    },
+    {
+      "id": "2627|6|83203",
+      "matchday": 6,
+      "kickoff": "2026-10-16T18:30:00Z",
+      "homeTeam": "Ein Frankfurt",
+      "awayTeam": "FC Koln",
+      "homeGoals": 1,
+      "awayGoals": 0
     }
   ],
   "market": {
