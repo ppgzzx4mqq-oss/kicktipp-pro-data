@@ -1,14 +1,7 @@
 {
   "season": "2026/27",
-  "generatedAt": "2026-10-23T11:32:22Z",
+  "generatedAt": "2026-10-24T09:45:14Z",
   "fixtures": [
-    {
-      "id": "2627|7|83212",
-      "matchday": 7,
-      "kickoff": "2026-10-23T18:30:00Z",
-      "homeTeam": "Stuttgart",
-      "awayTeam": "M'gladbach"
-    },
     {
       "id": "2627|7|83211",
       "matchday": 7,
@@ -2253,6 +2246,15 @@
       "awayTeam": "Hoffenheim",
       "homeGoals": 1,
       "awayGoals": 2
+    },
+    {
+      "id": "2627|7|83212",
+      "matchday": 7,
+      "kickoff": "2026-10-23T18:30:00Z",
+      "homeTeam": "Stuttgart",
+      "awayTeam": "M'gladbach",
+      "homeGoals": 2,
+      "awayGoals": 3
     }
   ],
   "market": {
