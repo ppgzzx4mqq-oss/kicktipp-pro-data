@@ -1,21 +1,7 @@
 {
   "season": "2026/27",
-  "generatedAt": "2026-10-25T11:18:55Z",
+  "generatedAt": "2026-10-26T11:25:56Z",
   "fixtures": [
-    {
-      "id": "2627|7|83213",
-      "matchday": 7,
-      "kickoff": "2026-10-25T14:30:00Z",
-      "homeTeam": "Hoffenheim",
-      "awayTeam": "Leverkusen"
-    },
-    {
-      "id": "2627|7|83214",
-      "matchday": 7,
-      "kickoff": "2026-10-25T16:30:00Z",
-      "homeTeam": "Freiburg",
-      "awayTeam": "Bayern Munich"
-    },
     {
       "id": "2627|8|83227",
       "matchday": 8,
@@ -2267,6 +2253,24 @@
       "awayTeam": "Ein Frankfurt",
       "homeGoals": 1,
       "awayGoals": 0
+    },
+    {
+      "id": "2627|7|83213",
+      "matchday": 7,
+      "kickoff": "2026-10-25T14:30:00Z",
+      "homeTeam": "Hoffenheim",
+      "awayTeam": "Leverkusen",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "id": "2627|7|83214",
+      "matchday": 7,
+      "kickoff": "2026-10-25T16:30:00Z",
+      "homeTeam": "Freiburg",
+      "awayTeam": "Bayern Munich",
+      "homeGoals": 1,
+      "awayGoals": 3
     }
   ],
   "market": {
