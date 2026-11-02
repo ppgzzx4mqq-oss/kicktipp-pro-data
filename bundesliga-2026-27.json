@@ -1,21 +1,7 @@
 {
   "season": "2026/27",
-  "generatedAt": "2026-11-01T13:14:47Z",
+  "generatedAt": "2026-11-02T13:46:28Z",
   "fixtures": [
-    {
-      "id": "2627|8|83223",
-      "matchday": 8,
-      "kickoff": "2026-11-01T14:30:00Z",
-      "homeTeam": "Union Berlin",
-      "awayTeam": "FC Koln"
-    },
-    {
-      "id": "2627|8|83221",
-      "matchday": 8,
-      "kickoff": "2026-11-01T16:30:00Z",
-      "homeTeam": "Ein Frankfurt",
-      "awayTeam": "Hamburg"
-    },
     {
       "id": "2627|9|83234",
       "matchday": 9,
@@ -2285,6 +2271,24 @@
       "awayTeam": "Dortmund",
       "homeGoals": 2,
       "awayGoals": 2
+    },
+    {
+      "id": "2627|8|83223",
+      "matchday": 8,
+      "kickoff": "2026-11-01T14:30:00Z",
+      "homeTeam": "Union Berlin",
+      "awayTeam": "FC Koln",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "2627|8|83221",
+      "matchday": 8,
+      "kickoff": "2026-11-01T16:30:00Z",
+      "homeTeam": "Ein Frankfurt",
+      "awayTeam": "Hamburg",
+      "homeGoals": 3,
+      "awayGoals": 1
     }
   ],
   "market": {
