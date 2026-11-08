@@ -1,42 +1,7 @@
 {
   "season": "2026/27",
-  "generatedAt": "2026-11-07T12:54:01Z",
+  "generatedAt": "2026-11-08T12:07:26Z",
   "fixtures": [
-    {
-      "id": "2627|9|83228",
-      "matchday": 9,
-      "kickoff": "2026-11-07T14:30:00Z",
-      "homeTeam": "Dortmund",
-      "awayTeam": "Elversberg"
-    },
-    {
-      "id": "2627|9|83229",
-      "matchday": 9,
-      "kickoff": "2026-11-07T14:30:00Z",
-      "homeTeam": "RB Leipzig",
-      "awayTeam": "Augsburg"
-    },
-    {
-      "id": "2627|9|83233",
-      "matchday": 9,
-      "kickoff": "2026-11-07T14:30:00Z",
-      "homeTeam": "Mainz 05",
-      "awayTeam": "Bayern Munich"
-    },
-    {
-      "id": "2627|9|83236",
-      "matchday": 9,
-      "kickoff": "2026-11-07T14:30:00Z",
-      "homeTeam": "SC Paderborn 07",
-      "awayTeam": "Ein Frankfurt"
-    },
-    {
-      "id": "2627|9|83230",
-      "matchday": 9,
-      "kickoff": "2026-11-07T17:30:00Z",
-      "homeTeam": "Stuttgart",
-      "awayTeam": "Werder Bremen"
-    },
     {
       "id": "2627|9|83235",
       "matchday": 9,
@@ -2291,6 +2256,51 @@
       "awayTeam": "M'gladbach",
       "homeGoals": 3,
       "awayGoals": 1
+    },
+    {
+      "id": "2627|9|83228",
+      "matchday": 9,
+      "kickoff": "2026-11-07T14:30:00Z",
+      "homeTeam": "Dortmund",
+      "awayTeam": "Elversberg",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "2627|9|83229",
+      "matchday": 9,
+      "kickoff": "2026-11-07T14:30:00Z",
+      "homeTeam": "RB Leipzig",
+      "awayTeam": "Augsburg",
+      "homeGoals": 5,
+      "awayGoals": 2
+    },
+    {
+      "id": "2627|9|83233",
+      "matchday": 9,
+      "kickoff": "2026-11-07T14:30:00Z",
+      "homeTeam": "Mainz 05",
+      "awayTeam": "Bayern Munich",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "2627|9|83236",
+      "matchday": 9,
+      "kickoff": "2026-11-07T14:30:00Z",
+      "homeTeam": "SC Paderborn 07",
+      "awayTeam": "Ein Frankfurt",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "id": "2627|9|83230",
+      "matchday": 9,
+      "kickoff": "2026-11-07T17:30:00Z",
+      "homeTeam": "Stuttgart",
+      "awayTeam": "Werder Bremen",
+      "homeGoals": 1,
+      "awayGoals": 0
     }
   ],
   "market": {
