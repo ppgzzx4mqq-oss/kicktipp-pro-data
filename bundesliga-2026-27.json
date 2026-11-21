@@ -1,14 +1,7 @@
 {
   "season": "2026/27",
-  "generatedAt": "2026-11-20T15:21:28Z",
+  "generatedAt": "2026-11-21T13:40:38Z",
   "fixtures": [
-    {
-      "id": "2627|10|83237",
-      "matchday": 10,
-      "kickoff": "2026-11-20T19:30:00Z",
-      "homeTeam": "Bayern Munich",
-      "awayTeam": "FC Koln"
-    },
     {
       "id": "2627|10|83238",
       "matchday": 10,
@@ -2306,6 +2299,15 @@
       "homeTeam": "Hoffenheim",
       "awayTeam": "Schalke 04",
       "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "2627|10|83237",
+      "matchday": 10,
+      "kickoff": "2026-11-20T19:30:00Z",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "FC Koln",
+      "homeGoals": 1,
       "awayGoals": 1
     }
   ],
