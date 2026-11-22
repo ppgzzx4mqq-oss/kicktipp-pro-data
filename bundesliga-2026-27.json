@@ -1,49 +1,7 @@
 {
   "season": "2026/27",
-  "generatedAt": "2026-11-21T14:34:44Z",
+  "generatedAt": "2026-11-22T13:33:01Z",
   "fixtures": [
-    {
-      "id": "2627|10|83238",
-      "matchday": 10,
-      "kickoff": "2026-11-21T14:30:00Z",
-      "homeTeam": "Leverkusen",
-      "awayTeam": "SC Paderborn 07"
-    },
-    {
-      "id": "2627|10|83239",
-      "matchday": 10,
-      "kickoff": "2026-11-21T14:30:00Z",
-      "homeTeam": "Ein Frankfurt",
-      "awayTeam": "Hoffenheim"
-    },
-    {
-      "id": "2627|10|83241",
-      "matchday": 10,
-      "kickoff": "2026-11-21T14:30:00Z",
-      "homeTeam": "Union Berlin",
-      "awayTeam": "RB Leipzig"
-    },
-    {
-      "id": "2627|10|83242",
-      "matchday": 10,
-      "kickoff": "2026-11-21T14:30:00Z",
-      "homeTeam": "M'gladbach",
-      "awayTeam": "Dortmund"
-    },
-    {
-      "id": "2627|10|83245",
-      "matchday": 10,
-      "kickoff": "2026-11-21T14:30:00Z",
-      "homeTeam": "Elversberg",
-      "awayTeam": "Freiburg"
-    },
-    {
-      "id": "2627|10|83244",
-      "matchday": 10,
-      "kickoff": "2026-11-21T17:30:00Z",
-      "homeTeam": "Schalke 04",
-      "awayTeam": "Stuttgart"
-    },
     {
       "id": "2627|10|83240",
       "matchday": 10,
@@ -2309,6 +2267,60 @@
       "awayTeam": "FC Koln",
       "homeGoals": 1,
       "awayGoals": 1
+    },
+    {
+      "id": "2627|10|83238",
+      "matchday": 10,
+      "kickoff": "2026-11-21T14:30:00Z",
+      "homeTeam": "Leverkusen",
+      "awayTeam": "SC Paderborn 07",
+      "homeGoals": 4,
+      "awayGoals": 0
+    },
+    {
+      "id": "2627|10|83239",
+      "matchday": 10,
+      "kickoff": "2026-11-21T14:30:00Z",
+      "homeTeam": "Ein Frankfurt",
+      "awayTeam": "Hoffenheim",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "2627|10|83241",
+      "matchday": 10,
+      "kickoff": "2026-11-21T14:30:00Z",
+      "homeTeam": "Union Berlin",
+      "awayTeam": "RB Leipzig",
+      "homeGoals": 1,
+      "awayGoals": 5
+    },
+    {
+      "id": "2627|10|83242",
+      "matchday": 10,
+      "kickoff": "2026-11-21T14:30:00Z",
+      "homeTeam": "M'gladbach",
+      "awayTeam": "Dortmund",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "2627|10|83245",
+      "matchday": 10,
+      "kickoff": "2026-11-21T14:30:00Z",
+      "homeTeam": "Elversberg",
+      "awayTeam": "Freiburg",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "2627|10|83244",
+      "matchday": 10,
+      "kickoff": "2026-11-21T17:30:00Z",
+      "homeTeam": "Schalke 04",
+      "awayTeam": "Stuttgart",
+      "homeGoals": 0,
+      "awayGoals": 0
     }
   ],
   "market": {
