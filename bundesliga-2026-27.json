@@ -1,21 +1,7 @@
 {
   "season": "2026/27",
-  "generatedAt": "2026-11-22T14:29:27Z",
+  "generatedAt": "2026-11-23T16:22:29Z",
   "fixtures": [
-    {
-      "id": "2627|10|83240",
-      "matchday": 10,
-      "kickoff": "2026-11-22T14:30:00Z",
-      "homeTeam": "Augsburg",
-      "awayTeam": "Mainz 05"
-    },
-    {
-      "id": "2627|10|83243",
-      "matchday": 10,
-      "kickoff": "2026-11-22T16:30:00Z",
-      "homeTeam": "Werder Bremen",
-      "awayTeam": "Hamburg"
-    },
     {
       "id": "2627|11|83253",
       "matchday": 11,
@@ -2320,6 +2306,24 @@
       "homeTeam": "Schalke 04",
       "awayTeam": "Stuttgart",
       "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "id": "2627|10|83240",
+      "matchday": 10,
+      "kickoff": "2026-11-22T14:30:00Z",
+      "homeTeam": "Augsburg",
+      "awayTeam": "Mainz 05",
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "id": "2627|10|83243",
+      "matchday": 10,
+      "kickoff": "2026-11-22T16:30:00Z",
+      "homeTeam": "Werder Bremen",
+      "awayTeam": "Hamburg",
+      "homeGoals": 4,
       "awayGoals": 0
     }
   ],
