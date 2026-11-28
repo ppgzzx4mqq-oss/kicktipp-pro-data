@@ -1,14 +1,7 @@
 {
   "season": "2026/27",
-  "generatedAt": "2026-11-27T16:33:41Z",
+  "generatedAt": "2026-11-28T14:28:02Z",
   "fixtures": [
-    {
-      "id": "2627|11|83253",
-      "matchday": 11,
-      "kickoff": "2026-11-27T19:30:00Z",
-      "homeTeam": "Werder Bremen",
-      "awayTeam": "M'gladbach"
-    },
     {
       "id": "2627|11|83250",
       "matchday": 11,
@@ -2325,6 +2318,15 @@
       "awayTeam": "Hamburg",
       "homeGoals": 4,
       "awayGoals": 0
+    },
+    {
+      "id": "2627|11|83253",
+      "matchday": 11,
+      "kickoff": "2026-11-27T19:30:00Z",
+      "homeTeam": "Werder Bremen",
+      "awayTeam": "M'gladbach",
+      "homeGoals": 3,
+      "awayGoals": 3
     }
   ],
   "market": {
